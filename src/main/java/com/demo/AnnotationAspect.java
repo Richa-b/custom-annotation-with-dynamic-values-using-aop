@@ -1,7 +1,5 @@
 package com.demo;
 
-import com.demo.CustomAnnotation;
-import com.demo.CustomSpringExpressionLanguageParser;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
